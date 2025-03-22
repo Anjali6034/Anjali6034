@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anjali6034
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me by my emial-anjalirathore25072002@gmail.com
 - 😄 Pronouns: she/ her.
 - ⚡ Fun fact: I am new in this field.
